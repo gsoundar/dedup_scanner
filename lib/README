@@ -1,0 +1,10 @@
+# README
+
+1. Download Crypto++ library
+curl http://www.cryptopp.com/cryptopp562.zip > cryptopp562.zip
+2. Make subdir "cryptopp"
+mkdir cryptopp
+3. Unzip into cryptopp
+cd cryptopp; unzip ../cryptopp562.zip
+4. Build
+make

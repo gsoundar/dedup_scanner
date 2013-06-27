@@ -1,0 +1,15 @@
+# DEDUP
+# -----
+# by Gokul Soundararajan
+
+This Rabin windowing code is copied from the code
+found at:
+
+http://github.com/cdl/rabinpoly-java
+
+and
+
+http://www.cs.cmu.edu/~hakim/software/rabinpoly-README.txt
+
+Mostly because I don't know if I can find the code again.
+
